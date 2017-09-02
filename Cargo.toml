@@ -1,0 +1,6 @@
+[package]
+name = "brojure"
+version = "0.1.0"
+authors = ["Niclas Blomberg <niclas.blomberg@reaktor.com>"]
+
+[dependencies]
